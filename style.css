@@ -12,15 +12,19 @@ h1 {
 }
 
 h2 {
-    font-size: 1.5em;
+    font-size: 2em;
     padding-bottom: 1em;
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 1.5em;
     padding-bottom: 1em;
 }
-
+h4 {
+    font-size: 1em;
+    padding-bottom: 1em;
+    font-weight: bold;
+}
 main { 
     display: grid;
     grid-template-columns: 40% 60%;
